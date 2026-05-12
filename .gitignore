@@ -1,0 +1,14 @@
+# Build artifacts
+act
+act.exe
+build/
+dist/
+
+# Go
+*.test
+*.out
+coverage.txt
+
+# OS/editor
+.DS_Store
+Thumbs.db

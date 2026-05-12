@@ -1,6 +1,6 @@
 # Build artifacts
-act
-act.exe
+/act
+/act.exe
 build/
 dist/
 
